@@ -10,7 +10,7 @@
             Console.WriteLine("------------- Mini Calculator ------------\n\n");
 
             var arithmeticCaller = new ArithmeticMethods();
-            arithmeticCaller.PerformSubtraction();
+            arithmeticCaller.StartArithMeticCalculations();
 
             Console.ReadKey();
         }
